@@ -20,5 +20,9 @@ address the following questions:
 
 ![image](https://user-images.githubusercontent.com/40743420/213354079-8510119e-9a92-4ea9-97a9-073ccf34c46c.png)
 
+#Deliverable 3 
 
+## T-Tests on Suspension Coils
+
+summarize your interpretation and findings for the t-test results
 -
