@@ -13,4 +13,12 @@ address the following questions:
 - Is the slope of the linear model considered to be zero? Why or why not?
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+#Deliverable 2
+
+## Summary Statistics on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/40743420/213354079-8510119e-9a92-4ea9-97a9-073ccf34c46c.png)
+
+
 -
