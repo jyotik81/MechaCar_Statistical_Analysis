@@ -9,16 +9,21 @@ summary (lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clear
 address the following questions:
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- The vehichle length, ground clearnace and the y intercept coefficent are statistically likely to provide a non-random amount of variance to the mpg values in the dataset as their p-values are much smaller than our significance level of 0.05%. Additionally, when the intercept has significant predicitive impact, there may be other variables of interest that can better explain variability of mpg that are not included in the model.
 
 - Is the slope of the linear model considered to be zero? Why or why not?
+We can reject the null hypothesis of our regression analysis test that the slope of the linear model is not considered to be zero. This interpretation is due to the fact that there are at least two known independent variables with significant predictability of the MechCar's mpg. 
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- The linear model has an r-squared value of 0.7149, which means approximately 71.5% of all mpg predicitions will be correct when using this model. Thus, we can confirm that this multiple linear regression does predict mpg of the MechaCar prototypes effectively. 
 
 #Deliverable 2
 
 ## Summary Statistics on Suspension Coils
 
 ![image](https://user-images.githubusercontent.com/40743420/213354079-8510119e-9a92-4ea9-97a9-073ccf34c46c.png)
+
+The design specifications for the MechaCar suspension coils dicate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI). Based on the technical analysis above, which summarizes the results of testing the weight capacities of various suspension coils from multiple production lots.
 
 #Deliverable 3 
 
